@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qzmk7KRNnHX6lX6ojysm0OJ8Byp3V9muxUHnbN31NFA1iO7zhHDPJu/GOFSbIigori68L1F6w+Jvvd0PcSt/hA==",
+  "success": true,
+  "projectFilePath": "/Users/publicar3d/Projects/Publicar3dRSS/Publicar3dAPI/Publicar3dAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/publicar3d/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.1/microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "/Users/publicar3d/.nuget/packages/microsoft.net.illink.tasks/8.0.1/microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "/Users/publicar3d/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.1/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
